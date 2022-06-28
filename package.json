@@ -1,14 +1,17 @@
 {
-  "name": "nft",
+  "name": "secure-nft",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "Gitcoin Passport",
+    "NFT"
+  ],
+  "author": "RahulBansal123",
+  "license": "MITE",
   "dependencies": {
     "@gitcoinco/passport-sdk-reader": "^0.1.1",
     "@openzeppelin/contracts": "^4.3.0",
