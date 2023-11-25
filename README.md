@@ -127,7 +127,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - Rahul Bansal rbbansal558@gmail.com
 
 Project Link: [https://github.com/RahulBansal123/secure-nft](<[https://github.com/RahulBansal123/secure-nft](https://github.com/RahulBansal123/secure-nft)>)
 
